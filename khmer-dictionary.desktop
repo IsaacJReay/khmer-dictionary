@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Khmer Electronic Dictionary
+Comment=Khmer Electronic Dictionary by Open Institute
+Exec=/usr/bin/khmer-dictionary
+Icon=/usr/share/icons/khmer-dictionary.png
+Terminal=false
+StartupNotify=false
+Categories=Application;
